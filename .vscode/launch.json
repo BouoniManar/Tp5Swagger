@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootApiDocApplication<spring-boot-api-doc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "dev.simplesolution.rest.SpringBootApiDocApplication",
+            "projectName": "spring-boot-api-doc",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
